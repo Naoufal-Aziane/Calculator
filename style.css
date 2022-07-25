@@ -1,5 +1,5 @@
 .calculator {
-    font-size: 22px;
+    font-size: 25px;
     display: flex;
     width: 300px;
     height: 400px;
@@ -8,15 +8,16 @@
     background-color: rgb(179, 179, 179);
 }
 .container {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
     padding: 10px 0;
 }
 .display {
     background-color: #15151A;
     color: white;
-    width: 100%;
+    width: 99%;
     height: 80px;
+    margin: 0 auto;
     margin-bottom: 1px;
 }
 
