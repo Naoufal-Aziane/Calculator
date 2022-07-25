@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .calculator {
     font-size: 25px;
     display: flex;
@@ -18,7 +24,12 @@
     width: 99%;
     height: 80px;
     margin: 0 auto;
+    font-size: 35px;
     margin-bottom: 1px;
+    padding: 5px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
 }
 
 .buttons {
